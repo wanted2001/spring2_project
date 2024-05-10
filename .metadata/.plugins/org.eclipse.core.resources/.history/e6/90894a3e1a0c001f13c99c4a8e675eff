@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+console.log("modify in!~");
+document.addEventListener('click',(e)=>{
+    var delBtn = e.target.id;
+    if(delBtn == 'file-x'){
+        const uuid = delBtn.dataset('uuid');
+        console.log(uuid);
+        
+    }
+})

@@ -1,0 +1,153 @@
+
+4월 30, 2024 17:24:12.805 NEW SESSION
+4월 30, 2024 17:24:12.806 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2024 17:25:45.244 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+5월 01, 2024 12:55:29.162 NEW SESSION
+5월 01, 2024 12:55:29.162 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 13:02:16.688 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 13:04:02.380 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 13:04:39.234 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 13:21:08.289 [17108:8504:0501/132108.288:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 01, 2024 13:22:54.300 [17108:8504:0501/132254.299:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+5월 01, 2024 13:22:54.301 [17108:8504:0501/132254.300:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -7
+5월 01, 2024 13:32:54.678 [17108:8504:0501/133254.677:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 01, 2024 14:04:24.574 [17108:8504:0501/140424.574:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 01, 2024 14:33:24.560 [17108:8504:0501/143324.560:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 01, 2024 15:26:59.826 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 15:49:35.728 [8536:5132:0501/154935.726:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 01, 2024 16:16:51.896 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 16:20:33.867 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 17:02:33.163 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 17:07:08.547 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 17:20:06.561 [1736:22224:0501/172006.560:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 01, 2024 17:21:18.253 [1736:12832:0501/172118.252:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.255 [1736:12832:0501/172118.252:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.256 [1736:12832:0501/172118.253:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.257 [1736:12832:0501/172118.253:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.258 [1736:12832:0501/172118.253:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.259 [1736:12832:0501/172118.253:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.260 [1736:12832:0501/172118.253:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.260 [1736:12832:0501/172118.253:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.261 [1736:12832:0501/172118.253:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.262 [1736:12832:0501/172118.253:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.263 [1736:12832:0501/172118.253:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.266 [1736:12832:0501/172118.253:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.266 [1736:12832:0501/172118.253:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.267 [1736:12832:0501/172118.253:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.267 [1736:12832:0501/172118.253:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.268 [1736:12832:0501/172118.253:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.268 [1736:12832:0501/172118.253:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.268 [1736:12832:0501/172118.253:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.269 [1736:12832:0501/172118.254:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.269 [1736:12832:0501/172118.254:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:18.270 [1736:12832:0501/172118.254:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 01, 2024 17:21:18.271 [1736:12832:0501/172118.254:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 01, 2024 17:21:19.615 [1736:356:0501/172119.614:ERROR:gpu_process_host.cc(997)] GPU process exited unexpectedly: exit_code=34
+5월 01, 2024 17:43:52.299 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 01, 2024 17:55:48.386 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+5월 02, 2024 12:53:34.806 NEW SESSION
+5월 02, 2024 12:53:34.806 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 02, 2024 13:17:55.403 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+5월 03, 2024 12:54:32.782 NEW SESSION
+5월 03, 2024 12:54:32.782 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 03, 2024 14:30:13.539 [12040:7360:0503/143013.539:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 03, 2024 14:37:21.670 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 03, 2024 15:35:41.451 [11968:8028:0503/153541.449:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 03, 2024 15:50:21.197 [11968:7888:0503/155021.197:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+5월 03, 2024 17:36:23.119 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 03, 2024 17:36:29.36 [6148:744:0503/173629.035:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+5월 03, 2024 17:36:31.233 [6148:744:0503/173631.233:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+5월 03, 2024 18:01:11.849 [6148:744:0503/180111.848:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 03, 2024 18:05:47.432 [6148:744:0503/180547.432:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+5월 07, 2024 11:43:18.190 NEW SESSION
+5월 07, 2024 11:43:18.190 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 07, 2024 12:20:07.438 [2128:10568:0507/122007.436:ERROR:interface_endpoint_client.cc(707)] Message 5 rejected by interface blink.mojom.WidgetHost
+5월 07, 2024 13:32:42.954 [2128:8456:0507/133242.954:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 07, 2024 13:37:08.355 [2128:8456:0507/133708.355:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+5월 07, 2024 13:47:13.849 [2128:8456:0507/134713.848:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 07, 2024 14:21:08.400 [2128:8456:0507/142108.399:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 07, 2024 15:35:38.360 [2128:8456:0507/153538.360:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 07, 2024 16:32:38.386 [2128:8456:0507/163238.386:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 07, 2024 17:06:28.615 [2128:8456:0507/170628.614:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+5월 07, 2024 17:24:56.335 [2128:11016:0507/172456.334:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+5월 07, 2024 17:25:04.464 [2128:8456:0507/172504.463:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+5월 07, 2024 17:31:08.387 [2128:8456:0507/173108.387:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 07, 2024 17:50:32.247 [2128:10568:0507/175032.246:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Unsupported URL scheme"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+5월 07, 2024 17:50:36.897 [2128:10568:0507/175036.897:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Unsupported URL scheme"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+5월 07, 2024 17:53:00.468 [2128:10568:0507/175300.467:ERROR:sharing_service.cc(250)] Device un-registration failed with fatal error
+5월 07, 2024 18:15:02.69 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+5월 08, 2024 09:33:36.69 NEW SESSION
+5월 08, 2024 09:33:36.69 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 09:47:06.493 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 10:03:10.713 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 10:42:18.632 [8968:4348:0508/104218.631:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.633 [8968:4348:0508/104218.632:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.635 [8968:4348:0508/104218.634:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.635 [8968:4348:0508/104218.634:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.636 [8968:4348:0508/104218.634:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.636 [8968:4348:0508/104218.635:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.637 [8968:4348:0508/104218.635:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.637 [8968:4348:0508/104218.635:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.638 [8968:4348:0508/104218.635:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.638 [8968:4348:0508/104218.635:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.639 [8968:4348:0508/104218.636:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.639 [8968:4348:0508/104218.636:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.640 [8968:4348:0508/104218.636:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.640 [8968:4348:0508/104218.636:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.641 [8968:4348:0508/104218.636:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.642 [8968:4348:0508/104218.636:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.642 [8968:4348:0508/104218.636:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.644 [8968:4348:0508/104218.636:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.646 [8968:4348:0508/104218.636:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.647 [8968:4348:0508/104218.636:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.647 [8968:4348:0508/104218.636:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.648 [8968:4348:0508/104218.636:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.648 [8968:4348:0508/104218.636:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.650 [8968:4348:0508/104218.636:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.650 [8968:4348:0508/104218.637:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.651 [8968:4348:0508/104218.637:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.651 [8968:4348:0508/104218.637:ERROR:shared_image_interface_proxy.cc(130)] Buffer handle is null. Not creating a mailbox from it.
+5월 08, 2024 10:42:18.652 [8968:4348:0508/104218.637:ERROR:one_copy_raster_buffer_provider.cc(347)] Creation of StagingBuffer's SharedImage failed.
+5월 08, 2024 10:42:18.652 [8968:17412:0508/104218.650:ERROR:gpu_process_host.cc(997)] GPU process exited unexpectedly: exit_code=34
+5월 08, 2024 11:44:03.858 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 11:46:17.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 11:51:56.152 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 11:53:59.345 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 12:02:25.467 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 12:40:11.195 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 15:15:51.811 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 15:37:00.884 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 15:57:04.620 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 16:51:02.984 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 17:31:30.14 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2024 18:13:57.950 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+5월 09, 2024 10:42:14.292 NEW SESSION
+5월 09, 2024 10:42:14.292 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 11:09:03.902 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 11:42:59.205 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 13:25:10.490 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 13:40:35.556 [9220:5348:0509/134035.555:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 09, 2024 13:59:22.767 [9220:5348:0509/135922.766:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+5월 09, 2024 14:47:49.719 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 15:49:34.390 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 15:50:19.565 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 15:53:45.438 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 16:07:03.142 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 16:09:40.786 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 17:01:01.589 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 17:05:11.508 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 17:12:21.956 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 17:20:11.23 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 17:20:19.685 [13484:10132:0509/172019.685:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 09, 2024 17:21:02.940 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 18:10:40.869 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 18:11:01.833 [20284:17748:0509/181101.833:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+5월 09, 2024 18:11:51.757 [20284:17748:0509/181151.755:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+5월 09, 2024 18:17:47.291 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2024 18:18:32.97 Created TensorFlow Lite XNNPACK delegate for CPU.

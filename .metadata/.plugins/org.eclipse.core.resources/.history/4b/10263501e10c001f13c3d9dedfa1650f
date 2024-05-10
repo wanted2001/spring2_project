@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<jsp:include page="../layout/header.jsp" />
+<div class="container-md">
+	<h1>Member login Page</h1>
+	<form action="/user/login" method="post">
+		<div class="mb-3">
+			<label for="i" class="form-label">ID</label> <input type="text"
+				class="form-control" name="email" id="e" placeholder="email...">
+		</div>
+		<div class="mb-3">
+			<label for="p" class="form-label">PASSWORD</label> <input
+				type="password" class="form-control" name="pwd" id="p"
+				placeholder="pwd...">
+		</div>
+		<button type="submit" class="btn btn-primary">LOGIN</button>
+	</form>
+</div>
+<jsp:include page="../layout/footer.jsp" />

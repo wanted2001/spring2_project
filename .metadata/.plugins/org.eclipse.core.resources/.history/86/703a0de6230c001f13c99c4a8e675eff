@@ -1,0 +1,10 @@
+package com.ezen.www.handler;
+
+import org.springframework.scheduling.annotation.EnableScheduling;
+
+@EnableScheduling
+public class FileSweeper {
+	
+	// 직접 DB 접속을 해서
+
+}

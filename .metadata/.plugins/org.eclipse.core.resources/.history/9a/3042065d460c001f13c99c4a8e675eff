@@ -1,0 +1,63 @@
+package com.ezen.www.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.web.authentication.AuthenticationFailureHandler;
+import org.springframework.security.web.authentication.AuthenticationSuccessHandler;
+
+import com.ezen.www.security.CustomAuthUserService;
+import com.ezen.www.security.LoginFailureHandler;
+import com.ezen.www.security.LoginSuccessHandler;
+
+import lombok.extern.slf4j.Slf4j;
+
+
+//WebSecurityConfigurerAdapter
+@Slf4j
+@Configuration
+@EnableWebSecurity
+public class SecurityConfig extends WebSecurityConfigurerAdapter{
+	
+	//비밀번호 암호화 객체 PasswordEncoder 빈 생성
+	public PasswordEncoder bcPasswordEncoder() {
+		return new BCryptPasswordEncoder();
+	}
+	
+	//SuccessHandler 객체 빈 생성 -> 사용자 커스텀 객체
+	public AuthenticationSuccessHandler authSuccessHandler() {
+		return new LoginSuccessHandler(); //아직 생성 안함.
+	}
+	
+	//FailureHandler 객체 빈 생성 -> 사용자 커스텀 객체
+	public AuthenticationFailureHandler authFailureHandler() {
+		return new LoginFailureHandler(); //아직 생성 안함.
+	}
+	
+	//UserDetail 객체 빈 생성 -> 사용자 커스텀 생성
+	public UserDetailsService customUserService() {
+		return new CustomAuthUserService();
+	}
+	
+	
+	protected void configure(AuthenticationManagerBuilder auth) throws Exception{
+		//인증되는 객체로 생성
+		auth.userDetailsService(customUserService()).passwordEncoder(bcPasswordEncoder());
+		
+	}
+	
+	protected void configure(HttpSecurity http) throws Exception{
+		//화면에서 설정되는 권한에 따른 주소 매핑 설정
+		//csrf() : 크로스 사이트 요청 위조 지금은 공격에 대한 설정 풀기
+		http.csrf().disable();
+		
+		super.configure(http);
+	}
+	
+}

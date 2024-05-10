@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+console.log("modify in!~");
+document.addEventListener('click',(e)=>{
+    console.log(e.target);
+    if(e.target.classList('file-x')){
+        console.log("file -x");
+    }
+})

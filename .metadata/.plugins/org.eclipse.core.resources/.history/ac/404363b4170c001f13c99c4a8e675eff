@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+console.log("modify in!~");
+document.addEventListener('click',(e)=>{
+    var delBtn = e.target.id;
+    if(delBtn == 'file-x'){
+        console.log("file-x");
+    }
+})
